@@ -51,4 +51,12 @@ mat-spinner circle:nth-child(3) {
   margin-top: 40px;
 }
 
+.loading-status{
+  position: absolute;
+  top: 400px;
+  left: 1070px;
+  font-weight: 700;
+  color: rgb(1, 71, 1);
+}
+
 

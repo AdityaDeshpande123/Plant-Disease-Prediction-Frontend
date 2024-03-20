@@ -20,6 +20,7 @@ export class DiseasePredictorComponent  {
   imageURL : string = this.defaultimage;
   result : any;
   finalDiseasePrediction: string = '';
+  
 
  // imageURL : string = '..\\..\\..\\..\\..\\Machine Learning Module\\ip.jpg';
   
